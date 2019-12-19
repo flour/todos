@@ -2,7 +2,7 @@
 
 const Navbar = () => {
     return (
-        <nav className="nav-wrapper red darken-3">
+        <nav className="nav-wrapper light-green lighten-3">
             <div className="container">
                 <span className="brand-logo">Todo's</span>
             </div>
